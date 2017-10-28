@@ -276,7 +276,7 @@ La caractéristique essentielle des organismes visés par les normes ISO 29110 e
 ## À quoi servent les revues?
 Une revue est un processus ou une réunion au cours de laquelle un produit logiciel, un sensemble de produits logiciels ou un processus logiciel est présenté au personnel de projets, gestionnaires usagers, clients, représentants des utilisateurs, des auditeurs ou d’autres parties intéressées pour examen, avis et approbation.
 
-##Les différences entre les différentes revues
+## Les différences entre les différentes revues
 
 ||Gestion|Technique|Inspection|Walk-through|Audit|
 |-|-|-|-|-|-|
@@ -329,12 +329,13 @@ Les audits internes à intervalles planifiés pour déterminer si le système de
 Lorsque l’audit est réalisé par le client.
 Les grandes étapes de l’évaluation et de l’audit des logiciels
 
-####
+#### Les grandes étapes de l'évaluation et de l'audit des logiciels
+Choix des évaluateurs
 * Rencontres/Questionnaires et Plans de l’évaluation/audits
-* Analyse des réponses et revue de la documentation
-* Visites au site (entrevues et revues)
-* Constats (basés sur le modèle ou la norme utilisée)
-* Représentation graphique du Profil de secteur clé
+  - Analyse des réponses et revue de la documentation
+    * Visites au site (entrevues et revues)
+      - Constats (basés sur le modèle ou la norme utilisée)
+        * Représentation graphique du Profil de secteur clé
 
 ## Actions préventives et correctives
 ### Actions correctives
@@ -365,3 +366,64 @@ Le SEI a développé la méthode d’évaluation appelée SCAMPI pour supporter 
 4. Servir d’intrants à la rédaction d’un plan d’amélioration des processus
 5. À préparer l’organisme à une évaluation par un client
 6. Auditer les processus
+
+# Livre 2 - Chapitre 3 – Les politiques, processus et procédures
+
+## Qu’est-ce qu’on processus – 3 éléments?
+
+## Qu’est-ce que l’approche par processus?
+Toute activité ou ensemble d'activités qui utilise des ressources pour convertir des éléments d'entrée en éléments de sortie peut être considérée comme un processus. L'identification et le management méthodiques des processus utilisés dans un organisme, et plus particulièrement les interactions de ces processus, sont appelés l'approche processus.
+### Pyramide Structure documentaire
+1. politiques
+2. processus
+3. procédures
+4. enregistrements qualité
+
+## Lien à faire entre l’approche processus et les normes
+
+## Notations de processus
+### Notation ETVX (Entry Task Verification eXit)
+|intrant|(boucle) tâche -> valider| extrant|
+|-|-|-|
+
+ou
+
+|intrant|Activités/Tâches| extrant|
+|-|-|-|
+|critère de déclenchement|mesures|critère d'achèvement|
+
+## Principe de gouvernance
+
+## Institutionnalisation
+Une pratique est institutionnalisée quand elle fait partie de la culture.
+
+## Politiques
+Des énoncés clairs et mesurables de la direction et du comportement privilégiés en vue d'orienter les décisions prises au sein d'un organisme.
+
+### Directive organisationnelle
+Principe directeur généralement établi par la hiérarchie et adopté par une organisation pour influencer et déterminer les décisions.
+### Politique qualité
+Orientations et intentions gémérales d'un organisme relatives à la qualité telles qu'elles sont officiellement formulées par la direction.
+
+## Processus
+Ensemble d'activités corrélés ou interactives qui transforme des éléments d'entrée en éléments de sortie. Expression documentée d'un ensemble d'activités réalisées pour atteindre un objectif donné.
+
+## Procédures
+Manière spécifiée d'effectuer une activité ou un processus. Les procédures peuvent ou non faire l'objet de documents. Lorsqu'une procédure fait l'objet de documents, les termes procédure écrite ou procédure documentée sont fréquemment utilisés. Le document contenant une procédure peut être appelé un document de procédure.
+
+## Enregistrements qualité
+
+
+## Standards de l’organisation
+La norme ISO 9001 définit l'environnement de travail comme un ensemble des conditions dans lesquelles le travail est effectué. Les standards ou conventions de l'organisme définissent les attentes et les performances acceptables en fournissant des définitions précises qui guident le travail, la collecte et l'utilisation des données comme des standards de programmation.
+
+## Efficacité, efficience
+**Efficacité** : Niveau de réalisation des activités planifiées et d'obtention des résultats escomptés.
+
+**Efficience** : Rapport entre le résultat obtenu et les ressources utilisées.
+
+## Manuel qualité
+
+## Système qualité
+
+## Propriétaire ou détenteur d’un processus
