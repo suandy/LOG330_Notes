@@ -1,19 +1,15 @@
 # Livre 1 – Chapitre 1 – Introduction
-## Logiciel
-C’est un ensemble de programme, de procédures et de documentation associée et les données qui concernent le fonctionnement d’un système informatique. (ISO 24765)
+## Logiciel - Micrologiciel
+**Logiciel** : C’est un ensemble de programme, de procédures et de documentation associée et les données qui concernent le fonctionnement d’un système informatique. (ISO 24765)
 Le terme logiciel comprend le firmware, la documentation, les données et les instructions de contrôle d’exécution.
 
-## Micrologiciel (firmware)
-Combinaison d’un dispositif matériel et d’instruction d’un ordinateur.
+**Micrologiciel (firmware)** : Combinaison d’un dispositif matériel et d’instruction d’un ordinateur.
+## Erreurs - Fautes - Défaillance
+**Erreurs** : Pendant la conception. Une action humaine qui produit un résultat incorrect, comme un logiciel contenant un défaut. (ISO 24765)
 
-## Erreurs
-Pendant la conception. Une action humaine qui produit un résultat incorrect, comme un logiciel contenant un défaut. (ISO 24765)
+**Fautes (défaut)** : Pendant les essais, les tests. Plus les systèmes se complexifie, plus il y a de défauts. Une faute qui, si elle n’est pas corrigée, pourra causer une défaillance ou produire des résultats incorrects. (ISO 24765) Doivent être corrigés avant de devenir une défaillance.
 
-## Fautes (défaut)
-Pendant les essais, les tests. Plus les systèmes se complexifie, plus il y a de défauts. Une faute qui, si elle n’est pas corrigée, pourra causer une défaillance ou produire des résultats incorrects. (ISO 24765) Doivent être corrigés avant de devenir une défaillance.
-
-## Défaillance
-En production. La manifestation d’une erreur dans le logiciel. Cessation de l’aptitude d’un produit à accomplir une fonction  requise ou de son incapacité à s’en acquitter à l’intérieur des limites spécifiées précédemment. (ISO 25000)
+**Défaillance** : En production. La manifestation d’une erreur dans le logiciel. Cessation de l’aptitude d’un produit à accomplir une fonction  requise ou de son incapacité à s’en acquitter à l’intérieur des limites spécifiées précédemment. (ISO 25000)
 
 ## Qualité, AQ, CQ
 ### Assurance qualité (AQ)
@@ -90,29 +86,27 @@ Ces facteurs situationnels permettent de déduire un ensemble d’hypothèses ap
 
 ## 5 dimensions d’un projet logiciel et les compromis
 Il faut comprendre et possiblement négocier les dimensions avec le client avant le début du projet et peut-être renégocier lors d’un changement important au projet. Graph de Kiviat avec une échelle graduée de 10 valeurs où 0 est une contrainte et 10 est la liberté totale.
-### Fonctionnalités
-Capacité implémenté par le logiciel
-### Qualité
-### Coût
-Le prix du projet
-### Échéance
-Facteur de garantie des tâches à accomplir
-### Personnel
-Quantité de personnel, personnel efficace
+1. Fonctionnalités
+   * Capacité implémenté par le logiciel
+2. Qualité
+3. Coût
+   * Prix du projet
+4. Échéance
+   * Facteur de garantie des tâches à accomplir
+4. Personnel
+   * Quantité de personnel, personnel efficace
 
 ## COQ – prévention - détection – défaillance – préjudice
-### Coût de la qualité
-#### Coût de prévention
+### Coût de prévention
 Pour prévenir l’occurrence d’erreurs dans les diverses étapes durant le processus de développement ou de maintenance.
-#### Coût de détection (ou d’évaluation)
+### Coût de détection (ou d’évaluation)
 Le coût de vérification ou d’évaluation d’un produit ou d’une service pendant les différentes étapes du processus de développement
-#### Coût de défaillance
-##### Interne
-le coût résultant des anomalies avant que le produit ou le service ne soit livré au client
-##### Externe
-Le coût encouru par la compagnie quand c’est le client qui découvre le problème
-##### Préjudice commercial
-Conséquences de la dégradation de l’image d’une entreprise, de la perte de clients et des poursuites en justice.
+### Coût de défaillance
+**Interne** : le coût résultant des anomalies avant que le produit ou le service ne soit livré au client.
+
+**Externe** : Le coût encouru par la compagnie quand c’est le client qui découvre le problème.
+
+**Préjudice commercial** : Conséquences de la dégradation de l’image d’une entreprise, de la perte de clients et des poursuites en justice.
 
 ## Comment la culture d’entreprise est prédictive de la qualité des produits
 La culture d’un organisme est un facteur de réussite déterminant dans ses efforts d’amélioration des processus. La culture comprend un ensemble de valeurs et de principes partagés qui guident les comportements, les activités, les priorités et les décisions d’un groupe de personnes travaillant dans le même domaine. Quand des collègues s’alignent sur des croyances communes, il est plus facile d’amener des changements qui permettront d’accroître l’efficacité du groupe ainsi que ses chances de survie.
@@ -392,8 +386,6 @@ ou
 |-|-|-|
 |critère de déclenchement|mesures|critère d'achèvement|
 
-## Principe de gouvernance
-
 ## Institutionnalisation
 Une pratique est institutionnalisée quand elle fait partie de la culture.
 
@@ -402,6 +394,7 @@ Des énoncés clairs et mesurables de la direction et du comportement privilégi
 
 ### Directive organisationnelle
 Principe directeur généralement établi par la hiérarchie et adopté par une organisation pour influencer et déterminer les décisions.
+
 ### Politique qualité
 Orientations et intentions gémérales d'un organisme relatives à la qualité telles qu'elles sont officiellement formulées par la direction.
 
@@ -411,9 +404,6 @@ Ensemble d'activités corrélés ou interactives qui transforme des éléments d
 ## Procédures
 Manière spécifiée d'effectuer une activité ou un processus. Les procédures peuvent ou non faire l'objet de documents. Lorsqu'une procédure fait l'objet de documents, les termes procédure écrite ou procédure documentée sont fréquemment utilisés. Le document contenant une procédure peut être appelé un document de procédure.
 
-## Enregistrements qualité
-
-
 ## Standards de l’organisation
 La norme ISO 9001 définit l'environnement de travail comme un ensemble des conditions dans lesquelles le travail est effectué. Les standards ou conventions de l'organisme définissent les attentes et les performances acceptables en fournissant des définitions précises qui guident le travail, la collecte et l'utilisation des données comme des standards de programmation.
 
@@ -421,9 +411,3 @@ La norme ISO 9001 définit l'environnement de travail comme un ensemble des cond
 **Efficacité** : Niveau de réalisation des activités planifiées et d'obtention des résultats escomptés.
 
 **Efficience** : Rapport entre le résultat obtenu et les ressources utilisées.
-
-## Manuel qualité
-
-## Système qualité
-
-## Propriétaire ou détenteur d’un processus
