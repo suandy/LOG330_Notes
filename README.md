@@ -29,9 +29,9 @@ Le terme logiciel comprend le firmware, la documentation, les données et les in
 Processus de cycle de vie du logiciel qui comporte des activités d’analyse des besoins, de conception, de codage, d’intégration, de tests, d’installation et de soutien pour l’acceptation des produits logiciels. (ISO 90003)
 
 ## Maîtrises d’un analyste d’affaires
-1.	Identification des intervenants concernés qui doivent participer
-2.	Gestion de réunion
-3.	Gestion des changements
+1. Identification des intervenants concernés qui doivent participer
+2. Gestion de réunion
+3. Gestion des changements
 
 ## Modèle d’affaires
 Un modèle d’affaires énonce comment un organisme gagne de l’argent en précisant où (et comment) il se positionne dans son ou ses marchés. Le modèle d’affaires décrit les aspects principaux d’une activité, incluant buts, offres, stratégies, infrastructures, organisations, pratiques de diffusion ou distribution et processus et règles de fonctionnement.
@@ -273,7 +273,7 @@ Une revue est un processus ou une réunion au cours de laquelle un produit logic
 ## Les différences entre les différentes revues
 
 ||Gestion|Technique|Inspection|Walk-through|Audit|
-|-|-|-|-|-|-|
+|---|---|---|---|---|---|
 |**Objectifs**|Assurer la progression|Évaluer la conformité (spécifications) |  Trouver les anomalies|Trouver les anomalies et de les améliorer/examiner|Évaluer la conformité (normes)|
 |**Leadership**|Gestionnaire|Ingénieur en chef|Facilitateur entraîné|Facilitateur ou auteur|Auditeur en chef|
 |**Nombre participants**|Illimité|Illimité|3-6|2-7|1-5|
@@ -378,12 +378,12 @@ Toute activité ou ensemble d'activités qui utilise des ressources pour convert
 ## Notations de processus
 ### Notation ETVX (Entry Task Verification eXit)
 |intrant|(boucle) tâche -> valider| extrant|
-|-|-|-|
+|---|---|---|
 
 ou
 
 |intrant|Activités/Tâches| extrant|
-|-|-|-|
+|---|---|---|
 |critère de déclenchement|mesures|critère d'achèvement|
 
 ## Institutionnalisation
