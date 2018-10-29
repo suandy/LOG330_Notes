@@ -168,7 +168,7 @@ Les besoins ou les exigences de ces systèmes sont documentés soit dans un docu
 ## Garvin
 5 perspectives de la qualité étudiées par Garvin.
 
-**Perspective transcendantale de la qualité** : Quoique la qualité ne puisse pa être définie, vous le savez quand vous l’expérimentez.
+**Perspective transcendantale de la qualité** : Quoique la qualité ne puisse pas être définie, vous le savez quand vous l’expérimentez.
 
 **Perspective de l’utilisateur** : Le logicel de qualité fait ce qu’il doit faire du point de vue de son utilisateur.
 
